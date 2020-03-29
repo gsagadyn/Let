@@ -1,0 +1,16 @@
+PODS:
+  - Let (1.0.0)
+
+DEPENDENCIES:
+  - Let (from `../`)
+
+EXTERNAL SOURCES:
+  Let:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Let: 897a15d500c4fcb39eda59ca7ddce136c470c3a0
+
+PODFILE CHECKSUM: 12e09f1b90bf3d093f68db7000ba90092e3b5fde
+
+COCOAPODS: 1.9.1
