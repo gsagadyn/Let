@@ -29,7 +29,7 @@ pod 'Let'
 ## Usage
 
 ```swift
-let view = UIView() ~~> {
+return UIView() ~~> {
     $0.frame = CGRect(x: 10.0, y: 16.0, width: 100.0, height: 120.0)
     $0.backgroundColor = .red
 }

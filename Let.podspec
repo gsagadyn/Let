@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'Let'
-  s.version = '1.0.1'
+  s.version = '1.0.2'
   s.summary = 'Let allows modifying instance without assigning it to the variable.'
   s.homepage = 'https://github.com/gsagadyn/Let'
   s.license = { :type => 'MIT', :file => 'LICENSE' }
