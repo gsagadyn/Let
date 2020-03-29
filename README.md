@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/Let.svg?style=flat)](https://cocoapods.org/pods/Let)
 [![Platform](https://img.shields.io/cocoapods/p/Let.svg?style=flat)](https://cocoapods.org/pods/Let)
 
+Let allows modifying instance without assigning it to the variable.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
